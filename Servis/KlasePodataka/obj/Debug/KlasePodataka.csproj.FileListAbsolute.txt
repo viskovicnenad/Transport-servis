@@ -1,0 +1,6 @@
+C:\Users\Bata\source\repos\Servis\KlasePodataka\bin\Debug\KlasePodataka.dll
+C:\Users\Bata\source\repos\Servis\KlasePodataka\bin\Debug\KlasePodataka.pdb
+C:\Users\Bata\source\repos\Servis\KlasePodataka\obj\Debug\KlasePodataka.csprojAssemblyReference.cache
+C:\Users\Bata\source\repos\Servis\KlasePodataka\obj\Debug\KlasePodataka.csproj.CoreCompileInputs.cache
+C:\Users\Bata\source\repos\Servis\KlasePodataka\obj\Debug\KlasePodataka.dll
+C:\Users\Bata\source\repos\Servis\KlasePodataka\obj\Debug\KlasePodataka.pdb
