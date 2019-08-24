@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" CodeFile="Site.master.cs" Inherits="Site" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title>Dynamic Data Site</title>
+    <link href="~/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <h1 class="DDMainHeader">Transport&nbsp; sistem</h1>
+
+    <form id="form1" runat="server">
+    <div class="DDNavigation">
+        &nbsp;<asp:Menu ID="Menu1" runat="server">
+            <Items>
+                <asp:MenuItem NavigateUrl="~/Unos.aspx" Text="Unos" Value="Unos"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/Prikaz.aspx" Text="Prikaz" Value="Prikaz"></asp:MenuItem>
+            </Items>
+        </asp:Menu>
+    </div>
+
+    <div>
+        <%-- TODO: Enable partial rendering by setting the EnablePartialRendering attribute to "true" to provide a smoother browsing experience.
+             Leaving partial rendering disabled will provide a better debugging experience while the application is in development. --%>
+
+        
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
+
