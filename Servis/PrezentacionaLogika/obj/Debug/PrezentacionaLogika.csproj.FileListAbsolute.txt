@@ -1,0 +1,9 @@
+C:\Users\Bata\source\repos\Servis\PrezentacionaLogika\bin\Debug\PrezentacionaLogika.dll
+C:\Users\Bata\source\repos\Servis\PrezentacionaLogika\bin\Debug\PrezentacionaLogika.pdb
+C:\Users\Bata\source\repos\Servis\PrezentacionaLogika\bin\Debug\KlasePodataka.dll
+C:\Users\Bata\source\repos\Servis\PrezentacionaLogika\bin\Debug\KlasePodataka.pdb
+C:\Users\Bata\source\repos\Servis\PrezentacionaLogika\obj\Debug\PrezentacionaLogika.csprojAssemblyReference.cache
+C:\Users\Bata\source\repos\Servis\PrezentacionaLogika\obj\Debug\PrezentacionaLogika.csproj.CoreCompileInputs.cache
+C:\Users\Bata\source\repos\Servis\PrezentacionaLogika\obj\Debug\PrezentacionaLogika.csproj.CopyComplete
+C:\Users\Bata\source\repos\Servis\PrezentacionaLogika\obj\Debug\PrezentacionaLogika.dll
+C:\Users\Bata\source\repos\Servis\PrezentacionaLogika\obj\Debug\PrezentacionaLogika.pdb
